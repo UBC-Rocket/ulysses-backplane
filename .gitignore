@@ -1,0 +1,25 @@
+# STM32CubeIDE / Eclipse
+.settings/
+.metadata/
+Debug/
+Release/
+build/
+
+# CubeMX generated
+*.launch
+
+# Object files
+*.o
+*.a
+*.out
+*.elf
+*.map
+
+# IDE files
+*.log
+*.swp
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
